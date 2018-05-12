@@ -1,0 +1,27 @@
+_repo: Piano-Tuning--A-Simple-and-Accurate-Method-for-Amateurs_17571
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fischer, J. Cree (Jerry Cree)
+    alias: Fischer, Jerry Cree
+    birthdate: 1871
+    gutenberg_agent_id: '7463'
+    url: http://www.gutenberg.org/2009/agents/7463
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Piano -- Tuning'
+title: 'Piano Tuning: A Simple and Accurate Method for Amateurs'
+url: http://www.gutenberg.org/ebooks/17571
